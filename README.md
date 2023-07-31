@@ -80,3 +80,26 @@ Interface B1:</br>
 ![Screenshot from 2023-07-31 15-11-51](https://github.com/snowhp/NetPratice/assets/13867481/5550a3f8-f6e2-400e-8dd4-d5737797edab)
 
 </details>
+
+
+<details>
+<summary>Level 6</summary>
+
+Interface A1:</br>
+  NetworkID: 91.237.10.128</br>
+  First IP: 91.237.10.129</br>
+  Last IP: 91.237.10.254</br>
+  Broadcast: 91.237.10.255</br>
+![Screenshot from 2023-07-31 15-44-01](https://github.com/snowhp/NetPratice/assets/13867481/f6a6ede3-bc73-4fc1-8252-75ee5b594be8)
+
+</details>
+
+<details>
+<summary>Level 7</summary>
+
+Splitted into 3 different subnets to avoid overlap</br>
+![Screenshot from 2023-07-31 17-39-49](https://github.com/snowhp/NetPratice/assets/13867481/750f7f23-3fed-4d18-9eca-fadd9dc2a545)
+
+
+
+</details>
