@@ -49,3 +49,16 @@ Interface A1:</br>
   
   ![Screenshot from 2023-07-31 14-39-52](https://github.com/snowhp/NetPratice/assets/13867481/e04a9c45-a39a-44d3-b93d-b8b3b664975c)  
 </details>
+
+<details>
+<summary>Level 4</summary>
+
+Interface A1:</br>
+  NetworkID: 86.135.0.0</br>
+  First IP: 86.135.0.1</br>
+  Last IP: 86.135.127.254</br>
+  Broadcast: 86.135.127.255</br>
+  ![Screenshot from 2023-07-31 14-52-12](https://github.com/snowhp/NetPratice/assets/13867481/9edfba2d-99b1-4d98-b903-a06ad9360dd1)
+
+
+</details>
