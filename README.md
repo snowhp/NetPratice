@@ -62,3 +62,21 @@ Interface A1:</br>
 
 
 </details>
+
+<details>
+<summary>Level 5</summary>
+
+Interface A1:</br>
+  NetworkID: 69.119.56.0</br>
+  First IP: 69.119.56.1</br>
+  Last IP: 69.119.56.126</br>
+  Broadcast: 69.119.56.127</br>
+
+Interface B1:</br>
+  NetworkID: 163.34.64.0</br>
+  First IP: 163.34.64.1</br>
+  Last IP: 163.34.127.254</br>
+  Broadcast: 163.34.127.255</br>
+![Screenshot from 2023-07-31 15-11-51](https://github.com/snowhp/NetPratice/assets/13867481/5550a3f8-f6e2-400e-8dd4-d5737797edab)
+
+</details>
