@@ -103,3 +103,11 @@ Splitted into 3 different subnets to avoid overlap</br>
 
 
 </details>
+<details>
+<summary>Level 8</summary>
+
+Splitted into 3 different subnets to avoid overlap given a network of the Internet route</br>
+
+![image](https://github.com/snowhp/NetPratice/assets/13867481/4f080bf5-261a-48e8-9407-740f15469640)
+
+</details>
