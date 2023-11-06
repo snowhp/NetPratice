@@ -114,6 +114,7 @@ Splitted into 3 different subnets to avoid overlap given a network of the Intern
 
 <details>
 <summary>Level 9</summary>
+  
 ![image](https://github.com/snowhp/NetPratice/assets/13867481/1183fd7f-803d-4ef3-9bce-bf7c2f088ca6)
 
 </details>
@@ -121,6 +122,7 @@ Splitted into 3 different subnets to avoid overlap given a network of the Intern
 
 <details>
 <summary>Level 10</summary>
+  
 ![image](https://github.com/snowhp/NetPratice/assets/13867481/a7202726-262f-476d-ab06-2fd312a810f4)
 
 </details>
